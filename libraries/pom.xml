@@ -306,7 +306,7 @@
         <jool.version>0.9.12</jool.version>
         <maven-jar-plugin.version>3.0.2</maven-jar-plugin.version>
         <commons-net.version>3.6</commons-net.version>
-        <commonsio.version>2.6</commonsio.version>
+        <commonsio.version>2.7</commonsio.version>
     </properties>
 
 </project>
