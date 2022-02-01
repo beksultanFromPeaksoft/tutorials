@@ -301,7 +301,7 @@
         <chronicle.version>3.6.4</chronicle.version>
         <spring.version>4.3.8.RELEASE</spring.version>
         <spring-mock-mvc.version>3.0.3</spring-mock-mvc.version>
-        <quartz.version>2.3.0</quartz.version>
+        <quartz.version>2.3.2</quartz.version>
         <javaassist.version>3.21.0-GA</javaassist.version>
         <jool.version>0.9.12</jool.version>
         <maven-jar-plugin.version>3.0.2</maven-jar-plugin.version>
