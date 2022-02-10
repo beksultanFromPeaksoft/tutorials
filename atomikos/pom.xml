@@ -113,7 +113,7 @@
     <properties>
         <atomikos-version>5.0.6</atomikos-version>
         <spring-version>5.1.6.RELEASE</spring-version>
-        <hibernate.version>5.4.3.Final</hibernate.version>
+        <hibernate.version>5.4.24.Final</hibernate.version>
         <spring-data-jpa.version>1.11.23.RELEASE</spring-data-jpa.version>
         <activemq-core.version>5.7.0</activemq-core.version>
         <derby.version>10.8.1.2</derby.version>
