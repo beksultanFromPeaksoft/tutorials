@@ -89,7 +89,7 @@
         <jetty.maven.plugin.version>9.4.8.v20171121</jetty.maven.plugin.version>
         <activejdbc.version>1.4.13</activejdbc.version>
         <activeweb.version>1.15</activeweb.version>
-        <mysql.connector.java.version>5.1.45</mysql.connector.java.version>
+        <mysql.connector.java.version>8.0.28</mysql.connector.java.version>
         <sun.tools.version>1.7.0</sun.tools.version>
         <activeweb-testing.version>1.15</activeweb-testing.version>
     </properties>
