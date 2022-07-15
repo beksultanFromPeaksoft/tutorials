@@ -128,7 +128,7 @@
         <compiler.plugin.version>2.3.2</compiler.plugin.version>
         <source.version>1.8</source.version>
         <target.version>1.8</target.version>
-        <tapestry-release-version>5.4.5</tapestry-release-version>
+        <tapestry-release-version>5.8.2</tapestry-release-version>
         <servlet-api-release-version>2.5</servlet-api-release-version>
         <testng-release-version>6.8.21</testng-release-version>
         <slf4j-release-version>1.7.19</slf4j-release-version>
