@@ -104,7 +104,7 @@
     </dependencies>
 
     <properties>
-        <snakeyaml.version>1.21</snakeyaml.version>
+        <snakeyaml.version>1.26</snakeyaml.version>
         <kryo.version>4.0.1</kryo.version>
         <smooks.version>1.7.0</smooks.version>
         <opencsv.version>4.1</opencsv.version>
