@@ -305,7 +305,7 @@
         <javaassist.version>3.21.0-GA</javaassist.version>
         <jool.version>0.9.12</jool.version>
         <maven-jar-plugin.version>3.0.2</maven-jar-plugin.version>
-        <commons-net.version>3.6</commons-net.version>
+        <commons-net.version>3.9.0</commons-net.version>
         <commonsio.version>2.6</commonsio.version>
     </properties>
 
