@@ -147,7 +147,7 @@
         <functionaljava.version>4.8.1</functionaljava.version>
         <resilience4j.version>0.12.1</resilience4j.version>
         <protonpack.version>1.15</protonpack.version>
-        <commons-net.version>3.6</commons-net.version>
+        <commons-net.version>3.9.0</commons-net.version>
         <assertj.version>3.6.2</assertj.version>
         <renjin.version>3.5-beta72</renjin.version>
         <rcaller.version>3.0</rcaller.version>
