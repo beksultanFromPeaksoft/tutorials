@@ -299,7 +299,7 @@
         <datanucleus-xml.version>5.0.0-release</datanucleus-xml.version>
         <datanucleus-jdo-query.version>5.0.2</datanucleus-jdo-query.version>
         <chronicle.version>3.6.4</chronicle.version>
-        <spring.version>4.3.8.RELEASE</spring.version>
+        <spring.version>6.0.0</spring.version>
         <spring-mock-mvc.version>3.0.3</spring-mock-mvc.version>
         <quartz.version>2.3.0</quartz.version>
         <javaassist.version>3.21.0-GA</javaassist.version>
