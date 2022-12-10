@@ -204,7 +204,7 @@
         <jsonassert.version>1.5.0</jsonassert.version>
         <awaitility.version>3.0.0</awaitility.version>
         <hoverfly-java.version>0.8.1</hoverfly-java.version>
-        <spring.version>4.3.8.RELEASE</spring.version>
+        <spring.version>6.0.0</spring.version>
         <spring-mock-mvc.version>4.1.1</spring-mock-mvc.version>
         <assertj.version>3.14.0</assertj.version>
         <java-hamcrest.version>2.0.0.0</java-hamcrest.version>
