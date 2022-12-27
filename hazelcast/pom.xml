@@ -32,7 +32,7 @@
     </build>
 
     <properties>
-        <hazelcast.jet.version>4.2</hazelcast.jet.version>
+        <hazelcast.jet.version>4.5.4</hazelcast.jet.version>
     </properties>
 
 </project>
